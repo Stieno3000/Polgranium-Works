@@ -5,7 +5,7 @@ author: "[gold] Stieno3000"
 description: "[blue]new campaign and more"
 version: "0.17 Beta"
 minGameVersion: "140"
-dependencies: []
+dependencies: ["multi-crafter"]
 hidden: false
 repo: "Stieno3000/Polgranium-Works"
 }
