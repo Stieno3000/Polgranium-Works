@@ -1,0 +1,78 @@
+{
+    generator: "PlanetGenerator",
+    name: "anklivo",
+    parent: "erekir",
+    iconColor: 9e4f00,
+    orbitRadius: 3,
+    hasAtmosphere: true,
+    updateLighting: false,
+    atmosphereRadIn: 0.1,
+    atmosphereRadOut: 0.3,
+    atmosphereColor: 21c7eb,
+    landCloudColor: d5e3eb
+    drawOrbit: true,
+    accessible: false,
+    alwaysUnlocked: true,
+    defaultCore: "drop-pod",
+    sectorSeed: 5948,
+    startSector: 0,
+    sectorSize: 1,
+    clearSectorOnLose: true,
+    allowSectorInvasion: false,
+	allowLaunchToNumbered: false,
+    radius: 0.6,
+    hiddenItems: [
+        "copper",
+        "lead",
+        "scrap",
+        "graphite",
+        "coal",
+        "titanium",
+        "thorium",
+        "silicon",
+        "plastanium",
+        "phase-fabric",
+        "surge-alloy",
+        "spore-pod",
+        "sand",
+        "blast-compound",
+        "pyratite",
+        "metaglass",
+        "beryllium",
+        "oxide",
+        "tungsten",
+        "carbide",
+        "fissile-matter",
+        "dormant-cyst"
+    ],
+    cloudMesh: {
+        type: HexSkyMesh
+        planet: anklivo
+        seed: 5
+        speed: 2
+        radius: 0.05
+        divisions: 5
+        color: 8f6227
+        octaves: 1.5
+        persistence: 2
+        scl: 1
+        thresh: 0.45
+        }
+    mesh: {
+        type: "NoiseMesh",  //NoiseMesh NoiseMesh
+        seed: 266790,
+        divisions: 5,       
+        radius: 0.5,
+        planet: "anklivo",
+        color1: "4a3f1c",
+        color2: "5e3b0d",
+        colorOct: 4, //i 1
+        colorPersistence: 0.5, //f 0.5
+        colorScale: 0.5, //f 1
+        colorThreshold: 0.5, //f 0.5
+        octaves: 4,         //1         4
+        persistence: 1,     //0.01      1
+        scale: 1,         //0.01      1.1
+        mag: 1.2,             //1         5
+    }
+}
