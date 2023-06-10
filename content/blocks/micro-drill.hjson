@@ -1,0 +1,29 @@
+type: multicraft.MultiCrafter
+name: "micro drill"
+description: "a small drill used for mining gemenium or broken metal out of the ground, not so effective"
+details: "due to the big winds broken metal is scatterd evrywere in anklivo, thats the only reasons these drills can mine it"
+size: 2
+health: 140
+recipes: [
+{
+  input: {}
+  output: {
+    items: [
+      polgranium-works-broken-metal/2
+    ]
+  }
+  craftTime: 600.0
+  craftEffect: drillSteam
+}
+{
+  input: {}
+  output: {
+    items: [
+      polgranium-works-broken-metal/1
+      polgranium-works-gemenium/2
+    ]
+  }
+  craftTime: 1000.0
+  craftEffect: drillSteam
+}
+]
