@@ -1,0 +1,8 @@
+{
+type: Item
+name: Broken-Metal
+description: this is the broken metal of old civilazations that lived here.
+details: "the malis once tried tocolonize anklivo but heavily failed becuse of that the remainings of buildings have been here on the surface ostly covered up for years now, most is still usable but has to be smelted first before it can be used in new buildings"
+research: "drop-pod"
+alwaysUnlocked: true,
+}
