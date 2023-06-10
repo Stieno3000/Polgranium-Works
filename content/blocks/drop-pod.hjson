@@ -3,6 +3,10 @@
     category: "effect",
     name: "drop pod",
     description: "small core used for landing on anklivo, very fragile",
+     requirements: [
+            "broken-metal/180",
+            "gemenium/40",
+    ],
     size: 2,
     itemCapacity: 860,
     health: 130,
