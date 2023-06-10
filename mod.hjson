@@ -1,0 +1,11 @@
+{
+name: "[red]polgranium works"
+displayName: "polgranium works"
+author: "[gold] Stieno3000"
+description: "[blue]new campaign and more"
+version: "0.17 Beta"
+minGameVersion: "140"
+dependencies: []
+hidden: false
+repo: "Stieno3000/Polgranium-Works"
+}
