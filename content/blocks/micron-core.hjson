@@ -10,6 +10,10 @@
     unitType: "gamma",
     isFirstTier: false,
     alwaysUnlocked: false,
+    requirements: [
+            "broken-metal/560",
+            "gemenium/140",
+    ],
     research: {
         parent: "drop-pod"
         requirements: [
