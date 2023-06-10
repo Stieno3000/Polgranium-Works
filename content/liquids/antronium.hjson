@@ -1,0 +1,9 @@
+{
+type: Liquid
+name: antronium
+description: a gas on anklivo used for late game items and reactors
+research: {
+  parent: "gemenium"
+  requirements: []
+}
+}
