@@ -1,0 +1,21 @@
+{
+    type: "CoreBlock",
+    category: "effect",
+    name: "micron core",
+    description: "an upgraded core made by just extending the drop pod's base there for not costing to much resources, not very fragile",
+    size: 4,
+    itemCapacity: 2380,
+    buildVisibility: "shown"
+    health: 560,
+    unitType: "gamma",
+    isFirstTier: false,
+    alwaysUnlocked: false,
+    research: {
+        parent: "drop-pod"
+        requirements: [
+            "broken-metal/560",
+            "gemenium/140",
+            // "radar-part/3"
+        ],
+    },
+}

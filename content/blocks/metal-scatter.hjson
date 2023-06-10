@@ -1,0 +1,5 @@
+{
+    type: "OreBlock",
+    itemDrop: "broken-metal",
+    variants: 3
+}

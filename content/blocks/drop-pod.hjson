@@ -1,0 +1,18 @@
+{
+    type: "CoreBlock",
+    category: "effect",
+    name: "drop pod",
+    description: "small core used for landing on anklivo, very fragile",
+    size: 2,
+    itemCapacity: 860,
+    health: 130,
+    unitType: "beta",
+    isFirstTier: true,
+    alwaysUnlocked: true,
+    buildVisibility: "shown",
+    research: {
+        root: true,
+        name: "anklivo",
+        planet: "anklivo"
+    }    
+}
