@@ -5,6 +5,7 @@ details: "due to the big winds broken metal is scatterd evrywere in anklivo, tha
 size: 2
 health: 140
 alwaysUnlocked: true,
+category: "production",
 requirements: [
             "broken-metal/20",
     ],
