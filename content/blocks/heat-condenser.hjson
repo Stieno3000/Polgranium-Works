@@ -1,0 +1,11 @@
+type: "HeatProducer"
+catagory: "crafting"
+name: "[red]heat condenser"
+description: "[white]the [red]heat condenser [white]produces small amounts of heat from the ground and air"
+alwaysunlocked: "true"
+requirements: [
+"broken-metal/5"
+]
+research: "micro-drill"
+heatOutput: 2.5
+warmupRate: 0.05
