@@ -1,5 +1,5 @@
 type: "HeatProducer"
-catagory: "crafting"
+category: "crafting"
 name: "[red]heat condenser"
 description: "[white]the [red]heat condenser [white]produces small amounts of heat from the ground and air"
 alwaysunlocked: "true"
