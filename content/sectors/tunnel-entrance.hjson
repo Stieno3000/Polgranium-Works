@@ -1,0 +1,16 @@
+{
+    sector: 0,
+    planet: "anklivo",
+    details: "the tunnel entrance, your first sector, complete the basic tutorial of items on anklivo and get some resources, then move on"
+    research: {
+        parent: "drop-pod",
+        objectives: [
+            {
+                type: "SectorComplete",
+                preset: "tunnel-entrance"
+            }
+        ]
+    },
+    difficulty: 0,
+    alwaysUnlocked: true
+}
