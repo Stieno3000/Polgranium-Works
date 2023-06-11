@@ -4,6 +4,7 @@
     type: wall
     scaledHealth: 360
     size: 1
+    category: "defense",
     requirements: [
         "armored-gemenium/50",
     ],
