@@ -2,6 +2,7 @@
     name: large armored gemenium wall
     description: "a bigger wall made from armored gemenium, good for defending against medium/low treat enemy's"
     type: wall
+    category: "defense",
     scaledHealth: 360
     size: 2
     requirements: [
