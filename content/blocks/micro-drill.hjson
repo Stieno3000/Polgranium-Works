@@ -12,9 +12,12 @@ requirements: [
         parent: "drop-pod"
         requirements: [],
     },
-recipes: [
+recipes: 
+[
 {
-  input: {}
+  input: {
+  heat: 5
+  }
   output: {
     items: [
       polgranium-works-broken-metal/2
@@ -24,7 +27,9 @@ recipes: [
   craftEffect: drillSteam
 }
 {
-  input: {}
+  input: {
+  heat: 5
+  }
   output: {
     items: [
       polgranium-works-broken-metal/1
