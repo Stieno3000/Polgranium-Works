@@ -2,7 +2,7 @@ type: "HeatProducer"
 category: "crafting"
 name: "[red]heat condenser"
 description: "[white]the [red]heat condenser [white]produces small amounts of heat from the ground and air"
-alwaysunlocked: "true"
+alwaysUnlocked: true,
 size: 1
 health: 30
 requirements: [
