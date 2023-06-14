@@ -3,7 +3,7 @@ type: Liquid
 name: antronium
 description: a gas on anklivo used for late game items and reactors
 gas: true,
-color: 1B3DA0
+color: e8d174
 flammability: 0.2
 temperature: 0.3
 viscosity: 0.1
