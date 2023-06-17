@@ -11,7 +11,7 @@
     atmosphereColor: d06c53,
     landCloudColor: d5e3eb
     drawOrbit: true,
-    accessible: false,
+    accessible: true,
     alwaysUnlocked: true,
     defaultCore: "drop-pod",
     sectorSeed: 5948,
