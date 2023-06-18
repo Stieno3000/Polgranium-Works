@@ -25,6 +25,7 @@
     itemWhitelist: [
         broken-gemenium, gemenium, armored-gemenium
     ]
+    cloudmesh:
         type: HexSkyMesh
         planet: anklivo
         seed: 5
