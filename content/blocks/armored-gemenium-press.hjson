@@ -1,0 +1,51 @@
+type: multicraft.MultiCrafter
+name: "armored gemenium press"
+description: "makes armored gemenium, has 2 options,1 for bigg producions and 1 for smaller productions, [red] WIP"
+details: "due to the big winds broken metal is scatterd evrywere in anklivo, thats the only reasons these drills can mine it"
+size: 4
+health: 360
+alwaysUnlocked: true,
+category: "production",
+requirements: [
+    "broken-metal/120",
+    "gemenium/50",
+],
+research: {
+    parent: "micro-drill"
+    requirements: [],
+},
+recipes: 
+[
+{
+  input: {
+  items: [
+    polgranium-works-broken-metal/3
+    polgranium-works-gemenium/3
+  ]
+  heat: 15
+  }
+  output: {
+    items: [
+      polgranium-works-armored-gemenium/3
+    ]
+  }
+  craftTime: 600.0
+  craftEffect: smeltsmoke
+}
+{
+  input: {
+  items: [
+    polgranium-works-broken-metal/1
+    polgranium-works-gemenium/1
+  ]
+  heat: 5
+  }
+  output: {
+    items: [
+      polgranium-works-armored-gemenium/1
+    ]
+  }
+  craftTime: 600.0
+  craftEffect: smeltsmoke
+}
+]

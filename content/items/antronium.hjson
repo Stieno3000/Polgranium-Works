@@ -1,0 +1,10 @@
+{
+type: Item
+name: "Antronium"
+description: "[white]material mainly used in early game power plants and more. [red] WIP"
+color: 6ba95e
+research: {
+  parent: "gemenium,"
+  requirements: []
+}
+}

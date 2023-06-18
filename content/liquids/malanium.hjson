@@ -1,6 +1,6 @@
 {
 type: Liquid
-name: antronium
+name: malanium
 description: a gas on anklivo used for late game items and reactors
 gas: true,
 color: e8d174

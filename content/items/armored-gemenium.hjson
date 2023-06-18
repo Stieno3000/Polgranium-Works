@@ -2,6 +2,7 @@
 type: Item
 name: "armored gemenium"
 description: armored gemenium is gemenium fortified with metal, good for defenses.
+color: 676486
 research: {
   parent: "broken-metal, gemenium,"
   requirements: []

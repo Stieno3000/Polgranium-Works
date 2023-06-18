@@ -40,4 +40,16 @@ recipes:
   craftTime: 1000.0
   craftEffect: drillSteam
 }
+{
+  input: {
+  heat: 5
+  }
+  output: {
+    items: [
+      polgranium-works-antronium/1
+    ]
+  }
+  craftTime: 800.0
+  craftEffect: drillSteam
+}
 ]

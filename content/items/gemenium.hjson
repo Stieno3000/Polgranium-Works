@@ -2,6 +2,7 @@
 type: Item
 name: gemenium
 description: one of the main materials in everything on anklivo mainly founded in the caves and in colder areas.
+color: 8175a5
 research: {
   parent: "broken-metal"
   requirements: []
