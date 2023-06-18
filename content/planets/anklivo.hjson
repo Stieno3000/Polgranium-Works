@@ -23,7 +23,7 @@
     allowWaveSimulation: true
     radius: 0.6,
     itemWhitelist: [
-        broken-gemenium, gemenium, armored-gemenium
+        broken-metal, gemenium, armored-gemenium
     ]
     cloudmesh: {
         type: HexSkyMesh
