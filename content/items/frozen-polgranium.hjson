@@ -1,7 +1,7 @@
 {
 type: Item
 name: frozen polgranium
-description: " frozen polgranium comes from ,̷̧̠̞͖͎̺̥̯̟̓̊́͗̃̿̐̈́͌̕͝͝͝͠;̶̛̳͈̰̏̆̒̚;̵̭̹̬̼̳̖̞͚͈͌̓̚ͅ/̴̢̡̛͚͙̖̼̖̖̬̩̠̫̩̮̝̅͛͗͘[̸͕̣͖̩͙̯̲̝͊́̂̈́̒̊\̸̡͚͈͚͓̹̜̞̑̑͂̌̐̃̿͝/̴̨̝̼͎͔͈̗̪̒͋̓͑̽͆̍͋,̴̡̡̦̗̘͕́̆̈́͗͝͠\̸̛͈̜̲̇͒͑̀̓͛͒̄̓́̈́͘͝͠[̷̮͈̙͓̤̩͖̙̋̀̑͛͊̂̃̿̇̔͛̔͛͠;̷̺̣̮̼̅̾̒̇̒̎͒̽̀͠͝/̸̨̺̮̫̖̝͖̭͖̲̤̮̀̾͋̈,̴̧̱̫̙͍̗̭̩̬͎̗̮̖̃̂̽͊͂͊̐͋\̸̲͔̙̰͍̠͚̲̠͉̯͚̱̗̔́̎̈́̈́͂́̉͐͠.̷͇̱̬̻͖̥̮̤͗̿̀̀̾ͅͅ\̷̧̩̩̣͔͓͉͈͚͒ͅ[̷̯̘̜̇̔̂͛͆́͊͘͠͝/̸̧͉̥̦̫̘͖͍̩̒̿͐̔̆̕͠]̸̡͓͎̰͕̈̈̉̐̆́͐͆͌̈́͛̽̌͝͠\̶͚̘̲̰̜̲̼̪̳̌̓́̅͒͂̑̒̕͝͝,̵̞̗̋̽̓̐͂̈́̑;̶̢͕̲̻̻͕͓̰̦̜̞̬̙͐͌̾͐̎̉͆͜͝[̷̨̛̹͗̈́ͅ/̸̢̼̺̹̻͇̞̖̦̗͂̒͑̈ and is a material with unknown proporties"
+description: " frozen polgranium comes from -BLANK- and is a material with unknown proporties"
 color: 6974c4
 research: {
   parent: "antronium"
